@@ -1,5 +1,11 @@
 [
   {
+    "icao": "CCR",
+    "name": "Carcara Linhas Aéreas",
+    "callsign": "Carcará",
+    "virtual": true
+  },
+  {
     "icao": "EWG",
     "name": "vEWG",
     "callsign": "Eurowings",
